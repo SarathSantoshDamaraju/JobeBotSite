@@ -1,0 +1,18 @@
+
+<svg width="86px" height="49px" viewBox="0 0 86 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-40.000000, -31.000000)">
+            <g id="LANDING">
+                <g id="Logo" transform="translate(40.000000, 31.000000)">
+                    <path d="M0,9 C0,9 29.9575515,0.5 43,0.5 C56.0424485,0.5 86,9 86,9 L86,49 L0,49 L0,9 Z" id="Rectangle" fill="#FFFFFF"></path>
+                    <text id="JOBE" font-family="Lato-Semibold, Lato" font-size="25" font-weight="500" fill="#565656">
+                        <tspan x="12" y="39">JOBE</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

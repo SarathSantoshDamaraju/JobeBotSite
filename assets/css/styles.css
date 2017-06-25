@@ -1,0 +1,113 @@
+body {
+    font-family: Lato-Medium;
+}
+
+.navbar {
+    margin-bottom: 0px !important
+}
+
+.logo {
+    width: 86px;
+    margin: 15px 20px;
+}
+
+.colored-green {
+    background-color: #50E3C2;
+}
+
+.colored-cream {
+    background-color: #ebe9e9;
+}
+
+.navbar .navbar-right {
+    background-color: #fff;
+    margin: 30px;
+    border-radius: 5px;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.navbar a,
+.footer a {
+    color: #565656 !important;
+}
+
+.bg-colored {
+    background-color: rgba(255, 255, 255, 0.33);
+}
+
+.bg-colored-green {
+    background-color: rgba(80, 227, 194, 0.33);
+}
+
+
+/* =============================== Landing Section ============================= */
+
+.landing {
+    font-family: Lato-Light;
+    padding: 70px 0px;
+    overflow-x: hidden;
+}
+
+.landing .header-logo {
+    width: 360px;
+    margin-right: 100px;
+}
+
+.landing .title {
+    font-size: 50px;
+    color: #565656;
+}
+
+.landing .strong {
+    font-weight: 600;
+}
+
+.landing .sub-text {
+    font-size: 40px;
+}
+
+.landing a {
+    background-color: #fff;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 30px;
+    color: #007FFF;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.message-header {
+    height: 50px;
+    margin-right: 15px;
+}
+
+
+/* ================================ Jobs Section ===================================== */
+
+.jobs {
+    text-align: center;
+    padding-top: 70px;
+}
+
+.heading {
+    font-size: 34px;
+    font-family: Lato-Light;
+}
+
+.jobs img {
+    width: 429px;
+    margin-top: 50px;
+}
+
+
+/* =============================== Career section ================================== */
+
+.footer {
+    width: 96%;
+    padding-top: 30px;
+}
+
+.footer span {
+    color: #50E3C2;
+}
